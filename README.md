@@ -28,19 +28,6 @@ Topics such as probability distributions, hypothesis testing, and linear algebra
 | 6 | Statistical Machine Learning | K-Nearest Neighbors, decision trees, random forests, and XGBoost with hyperparameter tuning |
 | 7 | Unsupervised Learning | PCA, correspondence analysis, K-Means, hierarchical clustering, and Gaussian Mixture Models |
 
-## Code
-
-All notebooks are available to run directly in Google Colab:
-
-| Chapter | Topic | Colab |
-|---------|-------|-------|
-| 1 | Exploratory Data Analysis | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/farrelrassya/Practical-Statistics-for-Data-Scientist-Books/blob/main/PracticalStatisticsChapter1.ipynb) |
-| 2 | Data and Sampling Distributions | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/farrelrassya/Practical-Statistics-for-Data-Scientist-Books/blob/main/PracticalStatisticsChapter2.ipynb) |
-| 3 | Statistical Experiments and Significance Testing | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/farrelrassya/Practical-Statistics-for-Data-Scientist-Books/blob/main/PracticalStatisticsChapter3.ipynb) |
-| 4 | Regression and Prediction | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/farrelrassya/Practical-Statistics-for-Data-Scientist-Books/blob/main/PracticalStatisticsChapter4.ipynb) |
-| 5 | Classification | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/farrelrassya/Practical-Statistics-for-Data-Scientist-Books/blob/main/PracticalStatisticsChapter5.ipynb) |
-| 6 | Statistical Machine Learning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/farrelrassya/Practical-Statistics-for-Data-Scientist-Books/blob/main/PracticalStatisticsChapter6.ipynb) |
-| 7 | Unsupervised Learning | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/farrelrassya/Practical-Statistics-for-Data-Scientist-Books/blob/main/PracticalStatisticsChapter7.ipynb) |
 
 ## Prerequisites
 
